@@ -9,7 +9,7 @@ Clone the repository.
 git clone https://github.com/icssc-projects/intro-api-workshop.git
 ```
 
-Install dependencies (namely, `fetch`).
+Install dependencies.
 ```
 npm install
 ```
